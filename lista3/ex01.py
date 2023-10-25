@@ -1,0 +1,1 @@
+"""1. Faça um programa que leia 20 idades e calcule a média aritmética delas;"""

@@ -1,0 +1,2 @@
+"""11. Escrever um programa que lê 10 valores, um de cada vez, e conta quantos deles estão no intervalo
+fechado entre 10 e 20 e quantos deles estão fora do intervalo, no final escreva estes resultados."""

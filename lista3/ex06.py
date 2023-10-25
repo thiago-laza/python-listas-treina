@@ -1,0 +1,1 @@
+"""6.Faça um programa que calcule a soma dos números pares de 100 até 200;"""
