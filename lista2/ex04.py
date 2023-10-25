@@ -4,3 +4,5 @@ algarismos que compõe este número. Exemplo: 145 -> 1+4+5 = 10"""
 n = int(input('Digite um numero de 3 digitos? '))
 
 c = n /100
+
+d = n /10
