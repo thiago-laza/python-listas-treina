@@ -12,4 +12,4 @@ while True:
         acu += num
         cont += 1
         if cont == 10:
-            
+            '''continuar'''
