@@ -2,3 +2,9 @@
 mostre o nome do usuário de trás para frente utilizando somente letras
 maiúsculas. Dica: lembre−se que ao informar o nome o usuário pode digitar
 letras maiúsculas ou minúsculas."""
+
+nome = str(input('Digite seu nome: ')).upper()
+
+invertido = nome[::-1]
+
+print(invertido)

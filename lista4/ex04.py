@@ -4,12 +4,8 @@ cada um dos 3 números de celulares informados via teclado no formato
 para cada um escreva o número com a modificação sugerida, ou seja,
 0119NNNN-NNNN."""
 
-novo = []
-new = []
-
 for i in range(1,4):
-    telefone = input(f'Informe o numero do {i}⁰ telefone: ')
-    novo.append(telefone)
-    new.insert(0,'9')
-
-print(new)
+    tel = str(input(f'Digite o {i}⁰ numero: '))
+    tel1 = tel[:3]
+    tel2 = tel[3:]
+    print(f'O numero {tel} ficara', tel1 +'9'+tel2)

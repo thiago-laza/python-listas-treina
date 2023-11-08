@@ -7,3 +7,10 @@ FUL
 FULA
 FULAN
 FULANO"""
+
+nome = str(input('Digite seu nome: '))
+
+cont = 0
+
+for i in range(0,len(nome)):
+    print(nome[:i])
